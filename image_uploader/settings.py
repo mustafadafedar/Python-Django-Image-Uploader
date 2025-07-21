@@ -73,7 +73,7 @@ WSGI_APPLICATION = 'image_uploader.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/4.2/ref/settings/#databases
-
+#add you db
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.sqlite3',
